@@ -1,7 +1,7 @@
 # Threat File Scanner
 
 ## Overview
-Malicious File Scanner is a Python program that integrates with the VirusTotal API to scan files for potential threats. The program generates a SHA-256 hash for a file, checks if VirusTotal already has a scan report for that file, uploads the file if no report exists, and displays the scan results.
+This malicious File Scanner is a Python program that integrates with the VirusTotal API to scan files for potential threats. The program generates a SHA-256 hash for a file, checks if VirusTotal already has a scan report for that file, uploads the file if no report exists, and displays the scan results.
 
 ## Features
 - Generate SHA-256 hashes for files
